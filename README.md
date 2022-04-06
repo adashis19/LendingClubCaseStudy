@@ -15,6 +15,10 @@
 - In our EDA, we will identify certain drivers which will enable a loan evaluator to assess the probablilty of risk for a loan applicant
 - Lending Case Study dataset is used as provided by UpGrad Team
 
+## Technologies Used
+- numpy, pandas, matplotlib, seaborn and plotly libraries used
+- Jupyter notebook is used for python programming
+
 
 ## Conclusions
 Loan Amount and Interest Rate Charged – If the loan amount is greater than 25,000, indicates a 20%-25% probability of default based on historical data. The profile become more risky if interest rate charged exceeds 15%.
@@ -32,10 +36,6 @@ Loan Grade – More the loan grade, higher the probability of defaulting. This i
 DTI – The debt to income ratio is also an important variable. Higher the ratio, more is the chance of defaulting.
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- numpy, pandas, matplotlib, seaborn and plotly libraries used
-- Jupyter notebook is used for python programming
 
